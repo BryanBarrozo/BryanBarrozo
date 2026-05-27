@@ -1,6 +1,5 @@
 # Hi there, I'm Bryan 👋
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Front-End Developer focused on building modern and responsive web experiences.
 
@@ -51,22 +50,6 @@ Features:
 * Context API
 * Dynamic Interface
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
@@ -92,6 +75,10 @@ const bryan = {
 
 <div align="center">
 
-✨ Thanks for visiting my profile ✨
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+
+### 🎧 Thanks for visiting my profile
+
+Keep building. Keep learning. 🚀
 
 </div>
