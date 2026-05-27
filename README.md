@@ -73,9 +73,11 @@ const bryan = {
 
 ---
 
+---
+
 <div align="center">
 
-<img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hmeTN1eWZqNWMzNXpyNzRhaDJtamNtcXFnd3J2c3EyenE2eWpzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)" width="500"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hmeTN1eWZqNWMzNXpyNzRhaDJtamNtcXFnd3J2c3EyenE2eWpzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="500"/>
 
 ### 🎧 Thanks for visiting my profile
 
