@@ -93,7 +93,7 @@ Features:
 
 ## 🎧 Current Stack Mindset
 
-```javascript
+javascript
 const bryan = {
     code: ["JavaScript", "React.js", "Node.js", "SQL"],
     focus: "Full Stack Development",
@@ -106,4 +106,4 @@ const bryan = {
 
 Keep building. Keep learning. Keep growing. ⚡
 
-</div> ```
+</div> 
