@@ -43,7 +43,7 @@ Currently, I'm improving my skills in React.js, Node.js, and PostgreSQL by build
 
 ## 📌 Featured Projects
 
-### 🛒 Asthete (Full Stack Project – In Progress)
+### 🛒 Asthete (e-commerce Full Stack Project – In Progress)
 
 Modern full stack application built with React.js, Node.js, Express, and PostgreSQL.
 
@@ -51,7 +51,6 @@ Features:
 - REST API built with Node.js + Express  
 - Database integration using PostgreSQL  
 - Front-end built with React.js  
-- Context API for state management  
 - Clean architecture separating front-end and back-end  
 - Focus on scalability and best practices  
 
@@ -69,18 +68,6 @@ Features:
 - Context API  
 - Dynamic interface with loading and error states  
 
----
-
-### 🛒 E-commerce React App
-
-Front-end e-commerce application built with React.
-
-Features:
-- Product catalog  
-- Routing between pages  
-- State management with Context API  
-- Responsive UI (mobile-first)  
-- Clean component architecture  
 
 ---
 
