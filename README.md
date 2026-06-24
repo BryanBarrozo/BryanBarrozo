@@ -12,11 +12,9 @@ I'm a Full Stack Developer from Brazil passionate about building modern web appl
 
 Currently, I'm improving my skills in React.js, Node.js, and PostgreSQL by building real-world full stack projects and studying best practices in API design, UI/UX, and software architecture.
 
-🎓 Bachelor’s Degree in Information Systems – Estácio
-
-💻 Focused on Full Stack Web Development (React + Node.js)
-
-🌱 Currently deepening knowledge in React, Node.js, REST APIs and databases
+🎓 Bachelor’s Degree in Information Systems – Estácio  
+💻 Focused on Full Stack Web Development (React + Node.js)  
+🌱 Currently deepening knowledge in React, Node.js, REST APIs and databases  
 
 ---
 
@@ -50,13 +48,12 @@ Currently, I'm improving my skills in React.js, Node.js, and PostgreSQL by build
 Modern full stack application built with React.js, Node.js, Express, and PostgreSQL.
 
 Features:
-
-- REST API built with Node.js + Express
-- Database integration using PostgreSQL
-- Front-end built with React.js
-- Context API for state management
-- Clean architecture separating front-end and back-end
-- Focus on scalability and best practices
+- REST API built with Node.js + Express  
+- Database integration using PostgreSQL  
+- Front-end built with React.js  
+- Context API for state management  
+- Clean architecture separating front-end and back-end  
+- Focus on scalability and best practices  
 
 ---
 
@@ -65,13 +62,12 @@ Features:
 Modern weather application built with React.js and REST APIs.
 
 Features:
-
-- Responsive Design
-- Glassmorphism UI
-- Real-time weather data via API
-- Component-based architecture
-- Context API
-- Dynamic interface with loading and error states
+- Responsive Design  
+- Glassmorphism UI  
+- Real-time weather data via API  
+- Component-based architecture  
+- Context API  
+- Dynamic interface with loading and error states  
 
 ---
 
@@ -80,18 +76,17 @@ Features:
 Front-end e-commerce application built with React.
 
 Features:
-
-- Product catalog
-- Routing between pages
-- State management with Context API
-- Responsive UI (mobile-first)
-- Clean component architecture
+- Product catalog  
+- Routing between pages  
+- State management with Context API  
+- Responsive UI (mobile-first)  
+- Clean component architecture  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-barrozo-4864bb410/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-barrozo-4864bb410/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BryanBarrozo)
 
 ---
@@ -106,7 +101,6 @@ const bryan = {
     nextStep: "TypeScript + System Design",
     mindset: "Build. Learn. Improve. Repeat."
 }
-
 <div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hmeTN1eWZqNWMzNXpyNzRhaDJtamNtcXFnd3J2c3EyenE2eWpzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="500"/>
 🚀 Thanks for visiting my profile
 
