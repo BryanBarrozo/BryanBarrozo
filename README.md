@@ -106,3 +106,10 @@ const bryan = {
     nextStep: "TypeScript + System Design",
     mindset: "Build. Learn. Improve. Repeat."
 }
+
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hmeTN1eWZqNWMzNXpyNzRhaDJtamNtcXFnd3J2c3EyenE2eWpzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="500"/>
+🚀 Thanks for visiting my profile
+
+Keep building. Keep learning. Keep growing. ⚡
+
+</div> ```
